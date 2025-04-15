@@ -57,9 +57,14 @@ class Bicycle:
 
 
 
-car = Car()
-print(car.move)
-
+# car = Car()
+# plane=Plane()
+# boat=Boat()
+# bicycle = Bicycle()
+# print(car.move())
+# print(plane.move())
+# print(boat.move())
+# print(bicycle.move())
 # hero = Superhero("Flash", ["Speed", "Agility"], 9.5, 30, 101)
 # print(hero)
 
